@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/shlomy.nackson/repos/workshop-unit-testing/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/shlomy.nackson/repos/workshop-unit-testing/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/shlomy.nackson/repos/android-testing/unit/BasicSample/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/shlomy.nackson/repos/android-testing/unit/BasicSample/app/src/main/res/layout/activity_main.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/shlomy.nackson/repos/workshop-unit-testing/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_launcher.png",
+        "source": "/Users/shlomy.nackson/repos/workshop-unit-testing/app/src/main/res/drawable-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/shlomy.nackson/repos/android-testing/unit/BasicSample/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_launcher.png",
+        "source": "/Users/shlomy.nackson/repos/android-testing/unit/BasicSample/app/src/main/res/drawable-xxxhdpi/ic_launcher.png"
+    }
+]
