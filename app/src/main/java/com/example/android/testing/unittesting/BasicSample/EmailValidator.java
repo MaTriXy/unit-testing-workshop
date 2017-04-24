@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.android.testing.unittesting.BasicSample;
+package com.example.android.testing.unittesting.basicsample;
 
 import android.text.Editable;
 import android.text.TextWatcher;
@@ -48,7 +48,7 @@ public class EmailValidator implements TextWatcher {
     /**
      * Validates if the given input is a valid email address.
      *
-     * @param email        The email to validate.
+     * @param email The email to validate.
      * @return {@code true} if the input is a valid email. {@code false} otherwise.
      */
     public static boolean isValidEmail(CharSequence email) {

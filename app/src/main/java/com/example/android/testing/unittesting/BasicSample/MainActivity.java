@@ -14,7 +14,12 @@
  * limitations under the License.
  */
 
-package com.example.android.testing.unittesting.BasicSample;
+package com.example.android.testing.unittesting.basicsample;
+
+import com.example.android.testing.unittesting.BasicSample.EmailValidator;
+import com.example.android.testing.unittesting.BasicSample.R;
+import com.example.android.testing.unittesting.BasicSample.SharedPreferenceEntry;
+import com.example.android.testing.unittesting.BasicSample.SharedPreferencesHelper;
 
 import android.app.Activity;
 import android.content.SharedPreferences;
